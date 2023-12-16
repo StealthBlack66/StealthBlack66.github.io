@@ -1,7 +1,7 @@
 ---
 title: "대학교 과제"
 layout: archive
-permalink: categories/assignment
+permalink: ./assignment
 author_profile: true
 sidebar_main: true
 ---

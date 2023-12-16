@@ -1,7 +1,7 @@
 ---
-title: "대학교 과제"
+title: "머신러닝"
 layout: archive
-permalink: https://stealthblack66.github.io/categories/assignment
+permalink: categories/assignment
 author_profile: true
 sidebar_main: true
 ---

@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Sim Yeyeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : *코딩* 관련 공부 업로드 하는 블로그입니다."
-  location         : "Somewhere"
+  bio              : "*코딩* 관련 공부 업로드 하는 블로그입니다."
+  location         : "한경국립대학교"
   email            :
   links:
     - label: "Email"

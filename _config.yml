@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Sim Yeyeong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/부엉이.jpg"
   bio              : "코딩 관련 공부 업로드 하는 블로그입니다."
   location         : "한경국립대학교"
   email            :
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/StealthBlack66"
+      url: "https://github.com/StealthBlack66"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/StealthBlack66" 
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

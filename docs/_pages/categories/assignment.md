@@ -1,7 +1,7 @@
 ---
 title: "머신러닝"
 layout: archive
-permalink: categories/assignment
+permalink: /categories/assignment
 author_profile: true
 sidebar_main: true
 ---

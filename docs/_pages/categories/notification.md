@@ -1,7 +1,7 @@
 ---
 title: "공지"
 layout: archive
-permalink: categories/공지
+permalink: /categories/공지
 author_profile: true
 sidebar_main: true
 ---
